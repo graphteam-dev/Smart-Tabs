@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "smart_tabs"
+version = "1.0.0"
+name = "Smart Tabs"
+tagline = "Project and scene tabs, tab duplication and cross-file copy"
+maintainer = "Graph Team <graph.support@gmail.com>"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
+
+[permissions]
+files = "Store tab sessions, clipboard and unsaved tab buffers"
